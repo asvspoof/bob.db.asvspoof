@@ -13,8 +13,6 @@
    :target: https://gitlab.idiap.ch/bob/bob.db.asvspoof
 .. image:: http://img.shields.io/pypi/v/bob.db.asvspoof.svg
    :target: https://pypi.python.org/pypi/bob.db.asvspoof
-.. image:: http://img.shields.io/pypi/dm/bob.db.asvspoof.svg
-   :target: https://pypi.python.org/pypi/bob.db.asvspoof
 
 
 ===================================
